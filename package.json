@@ -1,0 +1,14 @@
+{
+  "name": "lead-mail-router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "imapflow": "^1.0.140",
+    "mailparser": "^3.6.4",
+    "node-fetch": "^3.3.2"
+  }
+}
